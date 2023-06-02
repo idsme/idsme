@@ -14,11 +14,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a seasoned Fullstack Java, Angular & React Engineer, Architect & Coach<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands
+I am a seasoned Fullstack Java, Angular & React Engineer, Architect and Coach and PO<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands
 
-- 🔭 Currently Freelancing but looking for that perfect oppurtunity to spread more of my craftmanship as a Practice Director, VPE or CTO of a scale up.
+- 🔭 Currently Freelancing but looking for that perfect oppurtunity to spread more of my craftmanship as a Practice Director, VPE or CTO at a scale up or University.
 - 🌱 Exploring innovations in the software egineering landscape.
-- ⚡ In my free time I work on my custom motorcycle and watch a lot of youtube on the state of the latest tech.
+- ⚡ In my free time I work on my custom motorcycle and watch a lot of youtube to stay up to date with my craft.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-idsme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idsachterhof)
 
 ---
