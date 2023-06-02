@@ -14,11 +14,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a DAPPs Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands
+I am a seasoned Fullstack Java, Angular & React Engineer, Architect & Coach<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands
 
-- 🔭 I’m working as a Frontend Implementation Architect and contributing to frontend DAPPS and solidity / smartcontracts for building web3 applications.
-- 🌱 Exploring Cutting edge Technical.
-- ⚡ In my free time I work on my custom motorcycle and watch a lot of youtupe on the state of the latest tech.
+- 🔭 Currently Freelancing but looking for that perfect oppurtunity to spread more of my craftmanship as a Practice Director, VPE or CTO of a scale up.
+- 🌱 Exploring innovations in the software egineering landscape.
+- ⚡ In my free time I work on my custom motorcycle and watch a lot of youtube on the state of the latest tech.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-idsme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idsachterhof)
 
 ---
